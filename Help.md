@@ -1,5 +1,5 @@
 # Help
-compilation of resources for people to learn how to help and donate :)
+compilation of resources for people to learn how to help and donate :) Feel free to reach out or open a PR if there's any bad links/info or you want me to add something
 
 ### [VOTE](https://vote.gov/)
 ### [contact your representative](https://www.house.gov/representatives/find-your-representative)
